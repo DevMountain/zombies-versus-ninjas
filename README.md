@@ -14,8 +14,8 @@ Create a simple MongoDB database using mongoose that models a simple zombies ver
 
 ### Model the following
 
-1. Create a ninja model that has allows a ninja to store it's health, weapons, skills, abilities and the zombies that has been killed by the ninja
-2. Create a zombie model that allows a zombie to store it's health, appendages (arms, legs, etc), attackLevel, number of consumed ninjas. 
+1. Create a ninja model that has allows a ninja to store its health, weapons, skills, abilities and the zombies that has been killed by the ninja
+2. Create a zombie model that allows a zombie to store its health, appendages (arms, legs, etc), attackLevel, number of consumed ninjas. 
 3. Make sure to display the ninajs and zombies as whole objects instead of the relationships (number of zombies killed, and number of ninjas consumed
 
 ### Create an express api that exposes the zombies and the ninajs
